@@ -1,0 +1,8 @@
+{
+  "name": "AI Evals Mastery Hub",
+  "description": "A curated learning platform for mastering AI Evaluation (Evals), featuring structured paths, top resources, and a Gemini-powered Eval Advisor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
